@@ -1,1 +1,8 @@
 # My-summer-learning
+
+## **What I want to learn over the summer**
+Over the summer, I want to expose myself to as many real world applications of data science and computer science as possible and leave with a clearer picture of what topic I specifically want to work on and study in the future (in college and beyond). In my prior computer science classes and summer courses, I have been learning programming languages through project-based learning, but because they were mostly intro courses, I'd only ever learned the basics of the language without really focusing on the real world applications, even though I know that the possibilities are endless. I really want to use my knowledge of computer science and data science to help people in the real world, and I hope that this course will inspire and synthesize an idea. 
+
+
+## **Day 1 (6/28/21)**
+Today, we analyzed what the phrase "scan fight pattern" (by Tony Stark) actually meant and how the data could have been collected to make this function possible. It really made me think about the steps that data scientists (and Tony Stark) have to take in order to end up with models and Iron Man suits with the capability to "learn" from data and produce accurate results. It also provided as a good introduction into data science because then we studied data science terms that related to the situation, including explanatory and response variables, data taxonomy, supervised learning, data structures, continuous and discrete data, and the two stages of a data plotline (research phase and model phase). Maybe next time I watch a movie involving AI, I can try to get behind the actual process that occurs instead of just taking the words at face value. 
